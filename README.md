@@ -1,14 +1,20 @@
 # Clustering Project: Digital Ads Data Analysis
 
-## Introduction
+## 🚀 Introduction
 
 The ads24x7 is a Digital Marketing company that has received seed funding of $10 Million. They are expanding into Marketing Analytics and have provided data to segment types of ads based on specific features. This project involves using clustering procedures to group ads into homogeneous segments.
 
-## Dataset
+## 📊 Dataset
 
 The dataset contains information on digital ads, including features like CPM (Cost Per Mille), CPC (Cost Per Click), and CTR (Click-Through Rate). The data dictionary and formulas for these metrics are provided in Sheet 2 of the Clustering Clean ads_data Excel File.
 
-## Project Steps
+## 📁 Project Files
+
+- [Business Report - Clustering.pdf](Business+Report-Clustering.pdf)
+- [Clustering Clean Ads Data Excel File](Clustering%20Clean%20Ads_Data.xlsx)
+- [Python File for Clustering](Python_file_clustering.ipynb)
+
+## 📝 Project Steps
 
 1. **Data Exploration**
    - Read and perform basic analysis on the data, including printing a few rows, summary statistics, and checking for missing or duplicate values.
